@@ -1,1 +1,1 @@
-
+let yourArray = ["name",1,true,{name:'react'},1,2];
